@@ -101,4 +101,9 @@ b2 = b2 - alpha * db2
 ## Notes
 
 - The notebook expects `train.csv` to be in this folder.
+- Dataset source (Kaggle Digit Recognizer):
+
+```text
+https://www.kaggle.com/competitions/digit-recognizer/data
+```
 - To try a different dataset, update the file path and adjust input/output sizes.
